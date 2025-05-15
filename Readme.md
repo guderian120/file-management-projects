@@ -21,7 +21,7 @@ This repository is a collection of Bash-based tools to automate and manage files
 
 Organizes files by extension into categorized folders (Documents, Images, Videos, etc.).
 **Skills:** File handling, conditional logic, directory management
-📖 See [`README`](./sorter/README.md)
+📖 See [`README`](./sorter/Readme.md)
 
 ---
 

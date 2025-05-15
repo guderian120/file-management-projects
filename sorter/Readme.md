@@ -54,5 +54,4 @@ The script will sort files like this:
 * The script only processes files directly inside the specified directory (not recursively).
 * Existing folders (`Documents`, `Images`, etc.) will be reused if already present.
 
-```
 
