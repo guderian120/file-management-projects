@@ -1,0 +1,6 @@
+2025-05-15 14:06:54 [INFO] Backed up *.txt files to /home/guderian/AMALITECH_GTP/Lyod_homework/backup/Backup/critical_data/critical_data_backup_2025-05-15_14-06-46_txt.tar.gz
+2025-05-15 14:06:54 [INFO] Backed up *.log files to /home/guderian/AMALITECH_GTP/Lyod_homework/backup/Backup/critical_data/critical_data_backup_2025-05-15_14-06-46_log.tar.gz
+2025-05-15 14:06:54 [INFO] Backed up *.xml files to /home/guderian/AMALITECH_GTP/Lyod_homework/backup/Backup/critical_data/critical_data_backup_2025-05-15_14-06-46_xml.tar.gz
+2025-05-15 14:06:54 [INFO] Backed up *.txt files to /home/guderian/AMALITECH_GTP/Lyod_homework/backup/Backup/log_data/log_data_backup_2025-05-15_14-06-46_txt.tar.gz
+2025-05-15 14:06:54 [INFO] Backed up *.log files to /home/guderian/AMALITECH_GTP/Lyod_homework/backup/Backup/log_data/log_data_backup_2025-05-15_14-06-46_log.tar.gz
+2025-05-15 14:06:54 [INFO] Sending log file '/home/guderian/AMALITECH_GTP/Lyod_homework/backup/backup_log.log' via '/home/guderian/AMALITECH_GTP/Lyod_homework/general_logger/email_server.py' to 'admin@email.com'
