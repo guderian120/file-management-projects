@@ -29,7 +29,7 @@ Organizes files by extension into categorized folders (Documents, Images, Videos
 
 Renames multiple files using user-defined patterns, prefixes, suffixes, and counters.
 **Skills:** Regular expressions, loops, command-line input
-📖 See [`README`](./bulk_renamer/README.md)
+📖 See [`README`](./bulk_renamer/Readme.md)
 
 ---
 
@@ -37,7 +37,7 @@ Renames multiple files using user-defined patterns, prefixes, suffixes, and coun
 
 Identifies duplicate files based on size and hash comparison, with options to delete or move them.
 **Skills:** File hashing, user interaction, arrays
-📖 See [`README`](./duplicate_finder/README.md)
+📖 See [`README`](./duplicate_finder/Readme.md)
 
 ---
 
@@ -45,7 +45,7 @@ Identifies duplicate files based on size and hash comparison, with options to de
 
 Backs up selected files or directories with options for full or incremental backups, compression, and scheduling.
 **Skills:** Archiving, scheduling (cron), file operations
-📖 See [`README`](./backup/README.md)
+📖 See [`README`](./backup/Readme.md)
 
 ---
 
@@ -53,7 +53,7 @@ Backs up selected files or directories with options for full or incremental back
 
 Displays the top space-consuming files and directories, with basic sort and filter options.
 **Skills:** Sorting, disk usage reporting, output formatting
-📖 See [`README`](./disk_space_check/README.md)
+📖 See [`README`](./disk_space_check/Readme.md)
 
 ---
 
@@ -61,7 +61,7 @@ Displays the top space-consuming files and directories, with basic sort and filt
 
 Encrypts and decrypts files using AES-256-CBC with secure password input.
 **Skills:** OpenSSL, secure input/output, encryption handling
-📖 See [`README`](./file_encryption/README.md)
+📖 See [`README`](./file_encryption/Readme.md)
 
 ---
 
@@ -69,7 +69,7 @@ Encrypts and decrypts files using AES-256-CBC with secure password input.
 
 Keeps two directories in sync with two-way synchronization and basic conflict resolution.
 **Skills:** Rsync, logging, conflict detection
-📖 See [`README`](./file_sync/README.md)
+📖 See [`README`](./file_sync/Readme.md)
 
 ---
 
