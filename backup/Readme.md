@@ -57,8 +57,17 @@ This image show the directory structure before script execution
 
 ## After Script Excecution
 ![image](media/backup_script_run.png)
-## ⚙️ Cron Job Setup
 
+## Directory After Backup
+![image](media/backup_after_script.png)
+
+
+
+
+
+
+
+## ⚙️ Cron Job Setup
 ![image](media/cron_setup.png)
 To schedule automatic backups via `cron`:
 
