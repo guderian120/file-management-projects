@@ -21,7 +21,11 @@ This script provides **automated backups** for selected directories with options
 ```bash
 sudo ./new_backup.sh [SOURCE_DIRECTORIES...] [ADMIN_EMAIL]
 ```
-
+## To configure environment variables, you can run
+```bash
+#This will enable you reset your configurations for use in the non interactive or cron job mode
+./backup.sh --configure
+```
 ### ✅ Examples
 
 ```bash
